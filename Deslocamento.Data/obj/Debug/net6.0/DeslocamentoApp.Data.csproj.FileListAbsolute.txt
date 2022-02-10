@@ -1,0 +1,17 @@
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApp.Data.AssemblyInfoInputs.cache
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApp.Data.AssemblyInfo.cs
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Data\bin\Debug\net6.0\DeslocamentoApp.Data.deps.json
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Data\bin\Debug\net6.0\DeslocamentoApp.Data.runtimeconfig.json
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Data\bin\Debug\net6.0\DeslocamentoApp.Data.dll
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Data\bin\Debug\net6.0\ref\DeslocamentoApp.Data.dll
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Data\bin\Debug\net6.0\DeslocamentoApp.Data.pdb
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Data\bin\Debug\net6.0\DeslocamentoApp.Domain.dll
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Data\bin\Debug\net6.0\DeslocamentoApp.Domain.pdb
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApp.Data.csproj.AssemblyReference.cache
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApp.Data.csproj.CopyComplete
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApp.Data.dll
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Data\obj\Debug\net6.0\ref\DeslocamentoApp.Data.dll
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApp.Data.pdb
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Data\obj\Debug\net6.0\DeslocamentoApp.Data.genruntimeconfig.cache

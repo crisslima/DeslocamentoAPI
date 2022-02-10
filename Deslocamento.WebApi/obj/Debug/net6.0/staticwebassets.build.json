@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+P854ORbcYWoeBguXdVcJOLAIcWcLGnnCMwh/Eqdqxc=",
+  "Source": "DeslocamentoApp.WebApi",
+  "BasePath": "_content/DeslocamentoApp.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

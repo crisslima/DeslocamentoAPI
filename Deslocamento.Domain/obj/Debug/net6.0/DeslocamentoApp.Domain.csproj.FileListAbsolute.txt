@@ -1,0 +1,12 @@
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Domain\bin\Debug\net6.0\DeslocamentoApp.Domain.deps.json
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Domain\bin\Debug\net6.0\DeslocamentoApp.Domain.dll
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Domain\bin\Debug\net6.0\ref\DeslocamentoApp.Domain.dll
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Domain\bin\Debug\net6.0\DeslocamentoApp.Domain.pdb
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Domain\obj\Debug\net6.0\DeslocamentoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Domain\obj\Debug\net6.0\DeslocamentoApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Domain\obj\Debug\net6.0\DeslocamentoApp.Domain.AssemblyInfo.cs
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Domain\obj\Debug\net6.0\DeslocamentoApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Domain\obj\Debug\net6.0\DeslocamentoApp.Domain.dll
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Domain\obj\Debug\net6.0\ref\DeslocamentoApp.Domain.dll
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Domain\obj\Debug\net6.0\DeslocamentoApp.Domain.pdb
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Domain\obj\Debug\net6.0\DeslocamentoApp.Domain.csproj.AssemblyReference.cache

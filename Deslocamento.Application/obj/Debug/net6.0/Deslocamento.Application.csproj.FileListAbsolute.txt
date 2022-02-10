@@ -1,0 +1,5 @@
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Application\obj\Debug\net6.0\Deslocamento.Application.csproj.AssemblyReference.cache
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Application\obj\Debug\net6.0\Deslocamento.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Application\obj\Debug\net6.0\Deslocamento.Application.AssemblyInfoInputs.cache
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Application\obj\Debug\net6.0\Deslocamento.Application.AssemblyInfo.cs
+C:\Users\Cristiane\Documents\ABioparkConnect\C sharp\DeslocamentoApi\Deslocamento.Application\obj\Debug\net6.0\Deslocamento.Application.csproj.CoreCompileInputs.cache
